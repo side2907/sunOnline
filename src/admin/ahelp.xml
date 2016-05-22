@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<list>
+	<command>
+			<type>--help >>> </type>
+			<desc>Выводит список всех доступных команд.</desc>
+		</command>
+		<command>
+			<type>#>|текст| >>> </type>
+			<desc>Отправляет системное сообщение всем пользователям.</desc>
+		</command>
+		<command>
+			<type>#down >>> </type>
+			<desc>Отключает всех пользователей.</desc>
+		</command>
+		<command>
+			<type>#Sdown >>> </type>
+			<desc>Отключает всех пользователей и сервер.</desc>
+		</command>
+		<command>
+			<type>#AddS >>> </type>
+			<desc>Разрешает подключение дополнительного сервера через основную базу данных.</desc>
+		</command>
+		<command>
+			<type>#AddA >>> </type>
+			<desc>Разрешает подключение дополнительного администратора через коммандный интерфейс.</desc>
+		</command>
+	</list>

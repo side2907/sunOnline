@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<list>
+	<command>
+			<type>--help >>> </type>
+			<desc>Выводит список всех доступных команд.</desc>
+		</command>
+		<command>
+			<type>#down >>> </type>
+			<desc>Завершение работы.</desc>
+		</command>
+		<command>
+			<type>|Любой текст| >>> </type>
+			<desc>Отправляет сообщения всем пользователям.</desc>
+		</command>
+	</list>
